@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `SunderEshwar`,
     siteTitleAlt: `SunderEshwar's Portfolio`,
     siteHeadline: `Portfolio of Sundereshwar`,
-    siteUrl: `https://cara.lekoarts.de`,
+    siteUrl: `https://thesundereshwar.com`,
     siteDescription: `Portfolio Website of Kodi Sundereshwar`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
