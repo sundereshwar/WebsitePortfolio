@@ -10,11 +10,11 @@ module.exports = {
     siteTitle: `SunderEshwar`,
     siteTitleAlt: `SunderEshwar's Portfolio`,
     siteHeadline: `Portfolio of Sundereshwar`,
-    siteUrl: ``,
+    siteUrl: `https://cara.lekoarts.de`,
     siteDescription: `Portfolio Website of Kodi Sundereshwar`,
     siteLanguage: `en`,
-    siteImage: ``,
-    author: ``,
+    siteImage: `/banner.jpg`,
+    author: `@lekoarts_de`,
   },
   plugins: [
     {
