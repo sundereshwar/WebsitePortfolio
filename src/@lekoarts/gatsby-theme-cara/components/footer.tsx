@@ -17,8 +17,8 @@ const Footer = () => {
       >
         {isDark ? `Light` : `Dark`}
       </button>
-      Copyright &copy; {new Date().getFullYear()}. All rights reserved.
-      <br />
+      <br>Copyright &copy; {new Date().getFullYear()}. All rights reserved.</br>
+      <br/>
     </Box>
   )
 }
